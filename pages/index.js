@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Ele atualiza sozinho</h1>;
+  return <h1>Texto inicial</h1>;
 }
 
 export default Home;
